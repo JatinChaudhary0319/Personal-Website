@@ -23,7 +23,7 @@
 	</center>
 
 ## About Project:
-A robust portfolio website compatible for all devices including small screen, medium screen and large screen devices.
+A robust and responsive portfolio website compatible for all devices including small screen, medium screen and large screen devices.
 
 
 ## Snapshot
