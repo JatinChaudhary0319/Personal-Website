@@ -26,7 +26,7 @@
 A robust and responsive portfolio website compatible for all devices including small screen, medium screen and large screen devices.
 
 ## Live Demo Link:
-You can visit and have a look <a href="https://jatinchaudhary0319.github.io/Personal-Website/" target="_blank">here</a>.
+You can visit and have a look <a href="https://jatinchaudhary0319.github.io/Personal-Website/" target="_blank" rel="noopener noreferrer">here</a>.
 
 
 ## Snapshot
